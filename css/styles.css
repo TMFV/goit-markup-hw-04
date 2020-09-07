@@ -216,16 +216,17 @@ header > div {
 .advantage {
   padding-top: 94px;
 }
-.a .advantage h3 {
-  margin-top: 0;
-  padding-bottom: 10px;
+
+.advantage h3{
+  margin-top: 30px;
+  margin-bottom: 10px;
   color: var(--h2-text-color);
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
+  text-transform:uppercase;
 }
 .advantage p {
   max-width: 270px;
